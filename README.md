@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am Samad Imam 👋
 # 💫 About Me:
 🎓 Final-year CSE student at Aliah University<br>
 💻 Hands-on experience in MERN stack development<br>
