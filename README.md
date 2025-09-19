@@ -1,6 +1,17 @@
 ## Hi there 👋
 # 💫 About Me:
-🎓 Final-year CSE student at Aliah University<br>💻 Hands-on experience in MERN stack development<br>🚀 Built projects like Job Portal & Hotel Booking Application<br>📚 DSA enthusiast, currently improving problem-solving skills in C++<br>🛠️ Planning to build projects:<br>⚡ Professional-level Expense Tracker with Analytics (Pro)<br>📝 Online Quiz/Test Platform (Intermediate)<br>👥 Employee Management System (EMS) (Intermediate)<br>🌍 Eager to contribute to real-world projects & open-source<br>🤝 Open to freelance opportunities to deliver scalable web apps
+🎓 Final-year CSE student at Aliah University<br>
+💻 Hands-on experience in MERN stack development<br>
+🚀 Built projects like Job Portal & Hotel Booking Application<br>
+📚 DSA enthusiast, currently improving problem-solving skills in C++<br>
+🛠️ Planning to build projects:<br>
+<li>
+⚡ Professional-level Expense Tracker with Analytics (Pro)<br>
+📝 Online Quiz/Test Platform (Intermediate)<br>
+👥 Employee Management System (EMS) (Intermediate)<br>
+</li>
+🌍 Eager to contribute to real-world projects & open-source<br>
+🤝 Open to freelance opportunities to deliver scalable web apps
 
 
 ## 🌐 Socials:
