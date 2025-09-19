@@ -5,9 +5,9 @@
 🚀 Built projects like Job Portal & Hotel Booking Application<br>
 📚 DSA enthusiast, currently improving problem-solving skills in C++<br>
 🛠️ Planning to build projects:<br>
-<&nbsp><&nbsp><&nbsp>⚡ Professional-level Expense Tracker with Analytics (Pro)<br>
-<&nbsp><&nbsp><&nbsp>📝 Online Quiz/Test Platform (Intermediate)<br>
-<&nbsp><&nbsp><&nbsp>👥 Employee Management System (EMS) (Intermediate)<br>
+->⚡ Professional-level Expense Tracker with Analytics (Pro)<br>
+->📝 Online Quiz/Test Platform (Intermediate)<br>
+->👥 Employee Management System (EMS) (Intermediate)<br>
 🌍 Eager to contribute to real-world projects & open-source<br>
 🤝 Open to freelance opportunities to deliver scalable web apps
 
